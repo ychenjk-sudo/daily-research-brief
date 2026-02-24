@@ -71,14 +71,14 @@ Daily AI Research Brief on Embodied Intelligence
 
 ## 🤖 自动化流程
 
-本仓库通过Clawdbot自动化维护：
+本仓库通过自动化维护：
 
 1. **数据获取**: 每日自动从arXiv获取最新论文 (cs.RO, cs.LG, cs.CV, cs.AI)
 2. **智能筛选**: 基于机构优先级、主题相关性、创新性等维度筛选3-6篇高质量论文
 3. **报告生成**: 按照固定prompt格式生成完整的中文研究简报
-4. **自动推送**: 推送到GitHub仓库和飞书文档
+4. **自动推送**: 推送到GitHub仓库
 
-**飞书文档**: [每日研究简报](https://chj.feishu.cn/docx/WPmJdLKAvohbGaxBRmLc08MVn5f)
+**执行时间**: 每天中午12:00 (Asia/Shanghai)
 
 ---
 
@@ -118,7 +118,7 @@ Daily AI Research Brief on Embodied Intelligence
 
 ## 📅 更新频率
 
-- **更新时间**: 每天上午9:00 (Asia/Shanghai)
+- **更新时间**: 每天中午12:00 (Asia/Shanghai)
 - **覆盖范围**: 前一天发布的arXiv论文
 - **筛选标准**: 高质量论文 (约3%筛选率)
 
@@ -126,7 +126,6 @@ Daily AI Research Brief on Embodied Intelligence
 
 ## 🔗 相关链接
 
-- [Feishu文档](https://chj.feishu.cn/docx/WPmJdLKAvohbGaxBRmLc08MVn5f)
 - [arXiv](https://arxiv.org/)
 - [Papers with Code](https://paperswithcode.com/)
 
